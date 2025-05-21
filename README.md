@@ -9,9 +9,11 @@ The printed circuit boards were designed in Autodesk Fusion 360 and fabricated b
 
  
 ![Figure 1 – Dummy Load/Detector PCB](images/Picture1.jpg)
+
 Figure 1 – Dummy Load/Detector PCB	    
 
 ![Figure 2 - Arduino Controller PCB](images/Picture2.jpg)
+
 Figure 2 - Arduino Controller PCB
 
 ## Parts List - Dummy Load Board
@@ -36,3 +38,4 @@ Figure 2 - Arduino Controller PCB
 
 ## Calibration
 
+For calibration process check the dedicated [document here](Calibration.md).
