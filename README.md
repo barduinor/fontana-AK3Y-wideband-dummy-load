@@ -43,5 +43,6 @@ For calibration process check the dedicated [document here](Calibration.md).
 ## Other files
 
 - [Gerber files for Arduino and RF Board](gerber)
-- [Arduino code](DLProjectCode)
+- [Arduino code](DLProjectCode/DLProjectCode.ino)
 - [Project box STL files](project-box-stl)
+- [Original documents in PDF format](original-documents)
