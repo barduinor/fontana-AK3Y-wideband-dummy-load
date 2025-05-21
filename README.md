@@ -39,3 +39,9 @@ Figure 2 - Arduino Controller PCB
 ## Calibration
 
 For calibration process check the dedicated [document here](Calibration.md).
+
+## Other files
+
+- [Gerber files for Arduino and RF Board](gerber)
+- [Arduino code](DLProjectCode)
+- [Project box STL files](project-box-stl)
